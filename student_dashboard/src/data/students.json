@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Akhil",
+    "email": "akhil@email.com",
+    "course": "React",
+    "image": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 2,
+    "name": "Jyothi",
+    "email": "jyothi@email.com",
+    "course": "Java Full Stack",
+    "image": "https://i.pravatar.cc/150?img=3"
+  }
+]
